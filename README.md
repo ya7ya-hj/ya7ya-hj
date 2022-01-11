@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yahya Althubaity
-- 🌱 I’m currently a software Engineering student 
+- 🌱 I’m a software Engineer
 - 📫 you can reach me at althubaity-yahya@outlook.com
 
 <!---
